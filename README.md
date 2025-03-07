@@ -48,9 +48,6 @@ This project focuses on building a **Neural Network Model** using **PyTorch** to
 4. Train the model using `train.py`.
 5. Evaluate predictions and check the RMSE.
 
-## 🎬 Video Explanation
-- A short video walkthrough will explain **each step**, **why we made improvements**, and **how the model predicts house prices**.
-
 ## 🔥 Key Takeaways
 ✅ **Feature Engineering matters** – Adding `TotalSF` improved predictions.  
 ✅ **Neural Networks work for regression**, but **tuning is key**.  

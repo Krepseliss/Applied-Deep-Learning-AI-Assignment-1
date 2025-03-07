@@ -37,10 +37,6 @@ This project focuses on building a **Neural Network Model** using **PyTorch** to
 - Compared **RMSE before and after adding `TotalSF`**.
 - Adjusted **learning rate, dropout, and batch size** to optimize model performance.
 
-## 📉 Final Results
-- **Final RMSE:** _(To be filled in based on your final results)_
-- **Lower RMSE → Better price prediction accuracy!** 🎯
-
 ## 🚀 How to Run the Model
 1. Ensure you have **Python, PyTorch, pandas, and scikit-learn** installed.
 2. Load the dataset (`train.csv`, `test.csv`).
@@ -52,16 +48,3 @@ This project focuses on building a **Neural Network Model** using **PyTorch** to
 ✅ **Feature Engineering matters** – Adding `TotalSF` improved predictions.  
 ✅ **Neural Networks work for regression**, but **tuning is key**.  
 ✅ **Early Stopping & LR Scheduling** help prevent **overfitting**.  
-
----
-
-### **🎯 Next Steps**
-- **Try different architectures (more layers, neurons).**
-- **Test on new datasets and check generalization.**
-- **Deploy the model for real-time predictions!**
-
----
-
-🔗 **Author:** _(Your Name)_  
-📅 **Date:** _(Today's Date)_  
-🚀 **Project Goal:** **Accurately predict house prices using deep learning!**
